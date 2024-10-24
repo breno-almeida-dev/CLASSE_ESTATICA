@@ -13,7 +13,7 @@ A implementação inclui uma classe estática `ConversorUnidades` com métodos q
 - **Conversão de Comprimento:** Método `quilometrosParaMilhas(double quilometros)` que converte uma distância em quilômetros para milhas.
 - **Conversão de Massa:** Método `gramasParaLibras(double gramas)` que converte uma massa em gramas para libras.
 
-/assets/images/BibliotecadeConversões.drawio.png
+.md/assets/images/BibliotecadeConversões.drawio.png
   
 
 ## 📋 Pré-requisitos
