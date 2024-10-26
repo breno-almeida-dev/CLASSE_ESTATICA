@@ -14,7 +14,7 @@ A implementação inclui uma classe estática `ConversorUnidades` com métodos q
 - **Conversão de Massa:** Método `gramasParaLibras(double gramas)` que converte uma massa em gramas para libras.
 
 
-## [Imagem do diagrama do projeto.](https://github.com/breno-almeida-dev/CLASSE_ESTATICA/blob/master/BibliotecadeConversões.drawio.png)  
+## ![Imagem do diagrama do projeto](https://github.com/breno-almeida-dev/CLASSE_ESTATICA/blob/master/BibliotecadeConversões.drawio.png)  
 
 
 
